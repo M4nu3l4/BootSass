@@ -1,0 +1,18 @@
+*{
+    margin:0 auto;
+    padding: 0;
+  
+}
+#top{
+    background-color: #754ffe;
+   
+}
+.avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+.icons{
+    width: 25px;
+    height: 25px;
+}
